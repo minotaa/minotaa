@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started on.. me, I think:
 
-- 🌱 I’m currently learning **Java**.
-- 🤔 I’m looking for help with **Java**.
+- 🌱 I’m currently learning **Kotlin & Java**.
+- 🤔 I’m looking for help with **Kotlin & Java**.
 - 📫 Contact me on **discord**, `minota#4523`.
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: [Clownboy goes yeehonk](https://github.com/xMinota/sketchel/blob/master/quotes.json)
