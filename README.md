@@ -9,6 +9,9 @@ Here are some ideas to get you started on.. me, I think:
 - ⚡ Fun fact: [Clownboy goes yeehonk](https://github.com/xMinota/sketchel/blob/master/quotes.json)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ## Cards
