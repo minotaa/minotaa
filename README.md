@@ -6,6 +6,8 @@
 
 ---
 
+### My recent activity 🤔
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1108](https://github.com//JonathanGin52/JonathanGin52/issues/1108) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
 2. 💪 Opened PR [#10](https://github.com//minteeaa/Matchpost/pull/10) in [minteeaa/Matchpost](https://github.com//minteeaa/Matchpost)
