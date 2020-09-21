@@ -1,20 +1,13 @@
-## 🥓 minota
+<div align="center">
+  
+## Hello, I'm Minota! 👋
 
-Here are some ideas to get you started on.. me, I think:
+[**Website**](https://minota.space) | [**Twitter**](https://twitter.com/xMinota_) | [**Discord**](https://dsc.bio/mi)
 
-- 🌱 I’m currently learning **Kotlin & Java**.
-- 🤔 I’m looking for help with **Kotlin & Java**.
-- 📫 Contact me on **discord**, `minota#4523`.
-- 😄 Pronouns: He/him.
-- ⚡ Fun fact: [Clownboy goes yeehonk](https://github.com/xMinota/sketchel/blob/master/quotes.json)
+---
 
-<!--START_SECTION:waka-->
-```text
-Kotlin   47 mins         █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
+<!--START_SECTION:activity-->
 
-## Cards
+---
 
-[![Minota's github stats](https://github-readme-stats.vercel.app/api?username=xMinota)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMinota&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Minota's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xMinota&show_icons=true&hide_border=true" />
