@@ -10,7 +10,7 @@ Here are some ideas to get you started on.. me, I think:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Kotlin   47 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
