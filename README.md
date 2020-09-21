@@ -10,4 +10,4 @@
 
 ---
 
-<img align="left" alt="Minota's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xMinota&show_icons=true&hide_border=true" />
+<img align="center" alt="Minota's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xMinota&show_icons=true&hide_border=true" />
