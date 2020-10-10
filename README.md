@@ -18,6 +18,8 @@
 
 ---
 
+### Weekly development breakdown 📊
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   4 hrs 35 mins   ██████████████████████▒░░   88.71 % 
