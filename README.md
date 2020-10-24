@@ -9,11 +9,11 @@
 ### My recent activity 🤔
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/xMinota/wushi/issues/1) in [xMinota/wushi](https://github.com/xMinota/wushi)
-2. ❗️ Closed issue [#1](https://github.com/xMinota/wushi/issues/1) in [xMinota/wushi](https://github.com/xMinota/wushi)
-3. 🗣 Commented on [#1](https://github.com/xMinota/wushi/issues/1) in [xMinota/wushi](https://github.com/xMinota/wushi)
-4. ❗️ Opened issue [#1](https://github.com/xMinota/wushi/issues/1) in [xMinota/wushi](https://github.com/xMinota/wushi)
-5. ❗️ Opened issue [#1131](https://github.com/JonathanGin52/JonathanGin52/issues/1131) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. ❗️ Opened issue [#2](https://github.com/xMinota/wushi/issues/2) in [xMinota/wushi](https://github.com/xMinota/wushi)
+2. 🗣 Commented on [#1](https://github.com/xMinota/wushi/issues/1) in [xMinota/wushi](https://github.com/xMinota/wushi)
+3. ❗️ Closed issue [#1](https://github.com/xMinota/wushi/issues/1) in [xMinota/wushi](https://github.com/xMinota/wushi)
+4. 🗣 Commented on [#1](https://github.com/xMinota/wushi/issues/1) in [xMinota/wushi](https://github.com/xMinota/wushi)
+5. ❗️ Opened issue [#1](https://github.com/xMinota/wushi/issues/1) in [xMinota/wushi](https://github.com/xMinota/wushi)
 <!--END_SECTION:activity-->
 
 ---
