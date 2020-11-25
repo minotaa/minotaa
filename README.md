@@ -22,11 +22,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript            51 mins         █████████▓░░░░░░░░░░░░░░░   38.97 % 
-Other                 38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.11 % 
-Pug                   33 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.52 % 
-Sublime Text Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-SCSS                  2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Other                 3 hrs 10 mins   ████████████████████████░   96.37 % 
+JavaScript            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Sublime Text Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
 
