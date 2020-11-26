@@ -22,9 +22,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other                 3 hrs 10 mins   ████████████████████████░   96.37 % 
-JavaScript            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Sublime Text Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Other                 3 hrs 36 mins   █████████████████░░░░░░░░   68.34 % 
+JavaScript            1 hr 37 mins    ███████▓░░░░░░░░░░░░░░░░░   30.61 % 
+Sublime Text Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 <!--END_SECTION:waka-->
 
