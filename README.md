@@ -9,11 +9,11 @@
 ### My recent activity 🤔
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/xMinota/wushi/pull/3) in [xMinota/wushi](https://github.com/xMinota/wushi)
-2. 🗣 Commented on [#3](https://github.com/xMinota/wushi/issues/3) in [xMinota/wushi](https://github.com/xMinota/wushi)
-3. ❗️ Opened issue [#7](https://github.com/goldentg/DOW/issues/7) in [goldentg/DOW](https://github.com/goldentg/DOW)
-4. ❗️ Opened issue [#11](https://github.com/minteeaa/Matchpost/issues/11) in [minteeaa/Matchpost](https://github.com/minteeaa/Matchpost)
-5. ❗️ Opened issue [#2](https://github.com/xMinota/wushi/issues/2) in [xMinota/wushi](https://github.com/xMinota/wushi)
+1. 🎉 Merged PR [#4](https://github.com/xMinota/wushi/pull/4) in [xMinota/wushi](https://github.com/xMinota/wushi)
+2. 💪 Opened PR [#4](https://github.com/xMinota/wushi/pull/4) in [xMinota/wushi](https://github.com/xMinota/wushi)
+3. 🎉 Merged PR [#3](https://github.com/xMinota/wushi/pull/3) in [xMinota/wushi](https://github.com/xMinota/wushi)
+4. 🗣 Commented on [#3](https://github.com/xMinota/wushi/issues/3) in [xMinota/wushi](https://github.com/xMinota/wushi)
+5. ❗️ Opened issue [#7](https://github.com/goldentg/DOW/issues/7) in [goldentg/DOW](https://github.com/goldentg/DOW)
 <!--END_SECTION:activity-->
 
 ---
