@@ -2,7 +2,9 @@
   
 ## Hello, I'm Minota! 👋
 
-[**Website**](https://minota.space) | [**Twitter**](https://twitter.com/xMinota_) | [**Discord**](https://dsc.bio/mi)
+[**Twitter**](https://twitter.com/swagminota) | [**Discord**](https://dsc.bio/mi)
+
+</div>
 
 ---
 
