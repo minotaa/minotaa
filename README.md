@@ -24,10 +24,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        4 hrs 15 mins   ██████████████████████▓░░   90.49 % 
-Bash         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Properties   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Other        5 hrs 22 mins   ████████████████████████░   95.85 % 
+Properties   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
 
