@@ -24,9 +24,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        10 hrs 15 mins  ████████████████████████▒   97.91 % 
-Properties   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other        10 hrs 41 mins  ████████████████████████▓   98.54 % 
+Properties   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
 
