@@ -41,9 +41,6 @@ he/him
   </a>
 <span></span>
 
-### software
-
-
 ### contact me
 💬 [discord](https://dsc.bio/mi) | 🐦 [twitter](https://twitter.com/minotadev)
 
