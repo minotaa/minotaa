@@ -1,20 +1,11 @@
 <div align="center">
  
-# 💽
----
-</div>
+# 💽 minota
+💬 [discord](https://dsc.bio/mi) | 🐦 [twitter](https://twitter.com/minotadev) | 💸 [donate](https://ko-fi.com/U7U54D4O8)
 
-### toss me money
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U54D4O8)
-
-### website 
-coming soon~
-
-### pronouns
 he/him
 
-### languages
-
+---
 <span></span>
    <a href="https://www.python.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="py" width="35" height="35"/>
@@ -40,12 +31,6 @@ he/him
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="jar" width="35" height="35"/>
   </a>
 <span></span>
+</div>
 
-### contact me
-💬 [discord](https://dsc.bio/mi) | 🐦 [twitter](https://twitter.com/minotadev)
-
-
-### spotify 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mm5itkowuyucf2p1jvqfa5btb&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
