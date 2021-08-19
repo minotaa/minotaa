@@ -3,7 +3,7 @@
 # 💽 minota
 💬 [discord](https://dsc.bio/mi) | 🐦 [twitter](https://twitter.com/minotadev) | 💸 [donate](https://ko-fi.com/U7U54D4O8)
 
-he/him
+![Pronouns](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/61181354be124c42b207bffc&style=flat)
 
 ---
 <span></span>
