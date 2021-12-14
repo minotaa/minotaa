@@ -1,10 +1,14 @@
 <div align="center">
  
 # 💽 minota
-💬 [discord](https://dsc.bio/mi) | 🐦 [twitter](https://twitter.com/minotadev) | 💸 [donate](https://ko-fi.com/U7U54D4O8)
+💬 minota#0887 | 🐦 [twitter](https://twitter.com/minotadev)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U54D4O8)
+ 
+ 
 ![Pronouns](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/61181354be124c42b207bffc&style=flat)
-
+[![wakatime](https://wakatime.com/badge/user/cfe27323-be17-40d2-9f06-434172a9b2fd.svg)](https://wakatime.com/@cfe27323-be17-40d2-9f06-434172a9b2fd)
+ 
 ---
 <span></span>
    <a href="https://www.python.org" target="_blank">
